@@ -1,14 +1,13 @@
 #!env python
 
 """Chat server for CST311 Programming Assignment 3"""
-__author__ = "[team name here]"
-__credits__ = [
-  "Your",
-  "Names",
-  "Here"
-]
+# __author__ = "Team 1"
+# __credits__ = 
+#  Shane Cromer , Justin Dick, David Gin, Christopher Cisneros
 
 
+import threading
+import time
 import socket as s
 
 # Configure logging
