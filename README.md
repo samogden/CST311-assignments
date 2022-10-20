@@ -7,7 +7,7 @@ Therefore, if you start assignments prior to their official submission date plea
 
 ## Getting started
 
-To start working on projects please [fork the repository to your own github account](https://docs.github.com/en/get-started/quickstart/fork-a-repo) as a private repository.
+To start working on projects please following the directions in [Setting up a private fork](setting_up_a_private_fork.md) to set up a private repository.
 After you fork, [invite your team members to share](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
 ***Note:*** it is important to ensure that the repository is _private_ so other teams cannot access your code. 

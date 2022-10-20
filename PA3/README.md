@@ -107,7 +107,7 @@ The messages from the server to the client must look like (depending on the orde
 - [ ] ***Server-oriented Requirements***
   - [ ] (5 points) Server establishes the first client that made a connection as Client X and the second one as client Y.
   - [ ] (10 points) Serve must establish a connection with both clients simultaneously.
-      - ***Note: You will need multithreading and a way to share data between threads to achieve this.***
+      - ***Note: You will need multithreading and a way to share data between threads to achieve this. Here is a [tutorial](https://realpython.com/intro-to-python-threading/) and a [video](https://www.youtube.com/watch?v=6eqC1WTlIqc) to help you.***
   - [ ] (5 points) Server receives messages from both clients (in any order) and establishes which message it received first.
   - [ ] (10 points) Server sends acknowledgements to both clients stating which message was received first. (Message to clients must look like those described in the [Message Format section](#message-format).
   - [ ] (10 points) Server response message must have clients labelled properly (5 points), and be in proper order based on message receipt (5 points).
